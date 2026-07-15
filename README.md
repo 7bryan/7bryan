@@ -1,4 +1,4 @@
- there! 👋 I'm Bryan
+# Hi there! 👋 I'm Bryan
 
 I'm a **Computer Science student** at **Telkom University** who enjoys building software that solves real problems.
 
@@ -62,8 +62,9 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 - FastAPI
 - REST API Design
-- SQL
 - JavaScript
+- Python
+- Full Stack Development
 - Software Engineering
 - Data Structures & Algorithms
 
