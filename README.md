@@ -72,11 +72,13 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7bryan&show_icons=true&theme=github_dark&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7bryan&show_icons=true&theme=github_dark&hide_border=true) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7bryan&layout=compact&theme=github_dark&hide_border=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7bryan&layout=compact&theme=github_dark&hide_border=true) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=7bryan&theme=github-dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7bryan&theme=github-dark)
 
 ---
 
