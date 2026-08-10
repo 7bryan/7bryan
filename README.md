@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bryan
+# Hi there! I'm Bryan
 
 I'm a **Computer Science student** at **Telkom University** who enjoys building software that solves real problems.
 
