@@ -6,17 +6,17 @@ My current interests include **Backend Development**, **Full-Stack Web Developme
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔹 Building portfolio-quality software projects
-- 🔹 Backend development with **Python** and **FastAPI**
-- 🔹 Full-stack web development
-- 🔹 Data analysis and visualization
-- 🔹 Writing clean, maintainable code
+- Building portfolio-quality software projects
+- Backend development with **Python** and **FastAPI**
+- Full-stack web development
+- Data analysis and visualization
+- Writing clean, maintainable code
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -47,9 +47,9 @@ My current interests include **Backend Development**, **Full-Stack Web Developme
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
-### 🚀 Dev Pulse
+### Dev Pulse
 
 A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and **Vanilla JavaScript**.
 
@@ -64,7 +64,7 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - FastAPI
 - REST API Design
@@ -76,7 +76,7 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <!-- broken server -->
 
@@ -90,7 +90,7 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ---
 
-## 🎯 Goals for 2026
+## Goals for 2026
 
 - Build high-quality portfolio projects
 - Strengthen backend engineering skills
@@ -100,7 +100,7 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - GitHub: https://github.com/7bryan
 - LinkedIn: https://linkedin.com/in/bryan-anthony-wong-05261a32b/
@@ -109,6 +109,6 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 <div align="center">
 
-*"Code. Learn. Build. Repeat."*
+_"Code. Learn. Build. Repeat."_
 
 </div>
