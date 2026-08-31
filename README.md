@@ -50,32 +50,29 @@ My current interests include **Backend Development**, **Full-Stack Web Developme
 
 ---
 
-## Featured Project
+<!--## Featured Project
 
 ### Dev Pulse
 
-A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and **Vanilla JavaScript**.
+A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and **Vanilla JavaScript**.-->
 
-**Highlights**
+<!--**Highlights**
 
 - GitHub API integration
 - Repository insights
 - Contributor analytics
 - Commit activity visualization
 - RESTful backend
-- Interactive frontend dashboard
+- Interactive frontend dashboard-->
 
 ---
 
-## Currently Learning
+## Currently Learning & Building
 
-- FastAPI
-- REST API Design
-- JavaScript
-- Python
-- Full Stack Development
-- Software Engineering
-- Data Structures & Algorithms
+- **Desktop Pet App**: Learning desktop app development using **Tauri**, **Rust**, and **SQLite**.
+- **Full-Stack Web Development**: Building end-to-end web applications with **React**, **TypeScript**, and **FastAPI**.
+- **Backend Architecture**: Deepening system design and RESTful API patterns.
+- **Data Structures & Algorithms**: Continuous problem-solving in C++ and Python.
 
 ---
 
