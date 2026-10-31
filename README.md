@@ -2,19 +2,45 @@
 
 I'm a **Computer Science student** at **Telkom University** who enjoys building software that solves real problems.
 
-My current interests include **Backend Development**, **Full-Stack Web Development**, **Data Analysis**, and **Artificial Intelligence**. I enjoy learning by building projects, exploring APIs, and continuously improving my programming skills.
+My current interests include **Backend Development**, **Full-Stack Web Development**, and **Cyber Security**. I enjoy learning by building projects, exploring APIs, and continuously improving my programming skills.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bryan-homepage.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-anthony-wong-05261a32b/)
 
 ---
 
 ## Current Focus
 
 - Building portfolio-quality software projects
-- Backend development with **Python** and **FastAPI**
-- Full-stack web development
-- Data analysis and visualization
+- Backend development with **Go** and **Python**
+- Exploring full-stack development
+- Designing RESTful APIs and understanding backend architecture
 - Writing clean, maintainable code
+- Strengthening problem-solving and software engineering fundamentals
 
 ---
+
+<!--## Featured Projects
+
+### [Evermos Mini API](https://github.com/7bryan)
+
+RESTful e-commerce backend API developed as the final project for the Rakamin Academy x Evermos Backend Developer Virtual Internship.
+
+**Tech Stack:** Go, Fiber, GORM, MySQL
+
+### [Dev Pulse](https://github.com/7bryan)
+
+A lightweight full-stack GitHub analytics dashboard that retrieves, processes, and visualizes GitHub user and repository data.
+
+**Tech Stack:** Python, FastAPI, JavaScript, GitHub API
+
+### [Go Short](https://github.com/7bryan/go-short)
+
+A lightweight URL shortening service built with Go, featuring URL generation and redirection with Redis integration.
+
+**Tech Stack:** Go, Gin, Redis
+
+----->
 
 ## Tech Stack
 
@@ -44,6 +70,7 @@ My current interests include **Backend Development**, **Full-Stack Web Developme
 
 ### Databases & Tools
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -104,8 +131,9 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ## Connect with Me
 
-- GitHub: https://github.com/7bryan
-- LinkedIn: https://linkedin.com/in/bryan-anthony-wong-05261a32b/
+- **Portfolio:** [bryan-homepage.vercel.app](https://bryan-homepage.vercel.app/)
+- **GitHub:** [github.com/7bryan](https://github.com/7bryan)
+- **LinkedIn:** [linkedin.com/in/bryan-anthony-wong](https://linkedin.com/in/bryan-anthony-wong-05261a32b/)
 
 ---
 
