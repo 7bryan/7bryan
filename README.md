@@ -5,7 +5,7 @@ I'm a **Computer Science student** at **Telkom University** who enjoys building 
 My current interests include **Backend Development**, **Full-Stack Web Development**, and **Cyber Security**. I enjoy learning by building projects, exploring APIs, and continuously improving my programming skills.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bryan-homepage.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-anthony-wong-05261a32b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryananthonywong)
 
 ---
 
@@ -133,7 +133,7 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 - **Portfolio:** [bryan-homepage.vercel.app](https://bryan-homepage.vercel.app/)
 - **GitHub:** [github.com/7bryan](https://github.com/7bryan)
-- **LinkedIn:** [linkedin.com/in/bryan-anthony-wong](https://linkedin.com/in/bryan-anthony-wong-05261a32b/)
+- **LinkedIn:** [linkedin.com/in/bryananthonywong](https://linkedin.com/in/bryananthonywong)
 
 ---
 
