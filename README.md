@@ -94,7 +94,7 @@ A lightweight URL shortening service built with Go, featuring URL generation and
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
 
-![Tools](https://skillicons.dev/icons?i=mysql,sqlite,redis,git,github,gitlab,linux,postman&theme=dark)
+![Tools](https://skillicons.dev/icons?i=mysql,sqlite,redis,docker,git,github,gitlab,linux,postman&theme=dark)
 
 ---
 
@@ -149,6 +149,7 @@ Build high-quality portfolio projects, strengthen engineering skills, learn mode
 - **Portfolio:** [bryan-homepage.vercel.app](https://bryan-homepage.vercel.app/)
 - **GitHub:** [github.com/7bryan](https://github.com/7bryan)
 - **LinkedIn:** [linkedin.com/in/bryananthonywong](https://linkedin.com/in/bryananthonywong)
+- **Discord:** bryanaw_
 
 ---
 
