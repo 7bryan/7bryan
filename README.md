@@ -9,6 +9,18 @@ My current interests include **Backend Development**, **Full-Stack Web Developme
 
 ---
 
+## Featured Projects
+
+|                                                                                         |                                                      |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **[snip](https://github.com/7bryan/snip)**: terminal snippet manager                    | Rust TUI/CLI with ratatui, fast search, TOML storage |
+| **[BeamIt](https://github.com/7bryan/beamit)**: LAN file transfer CLI                   | Go, LocalSend-style peer discovery and transfer      |
+| **[Evermos Mini API](https://github.com/7bryan/evermos-mini-api)**: e-commerce REST API | Go, Fiber, GORM, MySQL, Postman docs                 |
+| **[DevPulse](https://github.com/7bryan/dev-pulse)**: GitHub analytics dashboard         | FastAPI + vanilla JS, terminal aesthetic             |
+| **[tomatab](https://github.com/7bryan/tomatab)**: Browser pomodoro extension            | WebExtension API + TypeScript, Tailwind CSS          |
+
+---
+
 ## Current Focus
 
 - Building portfolio-quality software projects
