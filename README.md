@@ -133,11 +133,7 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ## Goals for 2026
 
-- Build high-quality portfolio projects
-- Strengthen backend engineering skills
-- Learn modern software architecture
-- Contribute to open source
-- Land a software engineering internship
+Build high-quality portfolio projects, strengthen engineering skills, learn modern software architecture, contribute to open source and land a software engineering internship
 
 ---
 
@@ -151,6 +147,6 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 <div align="center">
 
-_"Code. Learn. Build. Repeat."_
+_"Open to internships. Reach me on LinkedIn"_
 
 </div>
