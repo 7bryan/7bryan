@@ -6,6 +6,7 @@ My current interests include **Backend Development**, **Full-Stack Web Developme
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bryan-homepage.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryananthonywong)
+[![Discord](https://img.shields.io/badge/Discord-your_username-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bryanaw_)
 
 ---
 
