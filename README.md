@@ -68,6 +68,7 @@ A lightweight URL shortening service built with Go, featuring URL generation and
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)-->
 
 ![Languages](https://skillicons.dev/icons?i=go,rust,py,ts,js,cpp,html,css&theme=dark)
+<sub>Go backend: Gin, Fiber, GORM</sub>
 
 ### Frameworks & Libraries
 
