@@ -85,7 +85,7 @@ A lightweight URL shortening service built with Go, featuring URL generation and
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)-->
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,tauri,pandas,numpy&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,tauri&theme=dark)
 
 ### Databases & Tools
 
