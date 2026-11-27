@@ -6,7 +6,7 @@ My current interests include **Backend Development**, **Full-Stack Web Developme
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bryan-homepage.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryananthonywong)
-[![Discord](https://img.shields.io/badge/Discord-bryanaw_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bryanaw_)
+[![Discord](https://img.shields.io/badge/Discord-bryanaw_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897752666107674665)
 
 ---
 
@@ -138,9 +138,13 @@ A lightweight full-stack GitHub analytics dashboard built with **FastAPI** and *
 
 ---
 
-## Goals for 2026
+<!--## Goals for 2026
 
-Build high-quality portfolio projects, strengthen engineering skills, learn modern software architecture, contribute to open source and land a software engineering internship
+Build high-quality portfolio projects, strengthen engineering skills, learn modern software architecture, contribute to open source and land a software engineering internship-->
+
+## Looking For
+
+Software engineering internship (backend / full-stack, Go · Python) and open-source projects to contribute to.
 
 ---
 
