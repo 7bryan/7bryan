@@ -69,6 +69,7 @@ A lightweight URL shortening service built with Go, featuring URL generation and
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)-->
 
 ![Languages](https://skillicons.dev/icons?i=go,rust,py,ts,js,cpp,html,css&theme=dark)
+
 <sub>Go backend: Gin, Fiber, GORM</sub>
 
 ### Frameworks & Libraries
@@ -96,8 +97,6 @@ A lightweight URL shortening service built with Go, featuring URL generation and
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
 
 ![Tools](https://skillicons.dev/icons?i=mysql,sqlite,redis,docker,git,github,gitlab,linux,postman&theme=dark)
-
----
 
 <!--## Featured Project
 
@@ -156,6 +155,6 @@ Build high-quality portfolio projects, strengthen engineering skills, learn mode
 
 <div align="center">
 
-_"Open to internships. Reach me on LinkedIn"_
+**Open to internships. Reach me on LinkedIn.**
 
 </div>
